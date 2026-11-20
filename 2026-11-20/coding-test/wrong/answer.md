@@ -7,10 +7,10 @@
 ```python
 def solution(s):
     s == "level"
-    if (s==s[::-1]) {
-      True
+    if (s == s[::-1]) {
+      return True
     } else {
-      False
+      retrurn False
     }
     pass
 
